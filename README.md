@@ -1,6 +1,5 @@
 # canario
 
-```markdown
 # Script de Download de Áudio com yt-dlp
 
 Este é um script Python simples para fazer o download de áudios de vídeos da internet usando o `yt-dlp`. Ele permite baixar o áudio de um link, convertê-lo para o formato MP3 e, se desejado, manter o vídeo original.
@@ -82,5 +81,4 @@ Se você não passar a flag `-k`, o vídeo será automaticamente removido após 
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
-```
 
